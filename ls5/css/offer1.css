@@ -1,0 +1,37 @@
+.offer1 {
+  padding: 80px 113px 80px 0;
+}
+
+.offer1__content-first {
+  display: flex;
+  align-items: center;
+}
+
+.offer1__content-second {
+  display: flex;
+  align-items: center;
+}
+
+.offer1__content {
+  margin-right: 63px;
+}
+
+.offer1__content1 {
+  margin-left: 63px;
+}
+
+.offer1__title {
+  font-size: 36px;
+}
+
+.offer1__title1 {
+  font-size: 36px;
+}
+
+.offer1__discription {
+  margin-top: 24px;
+}
+
+.offer1__discription1 {
+  margin-top: 24px;
+}
