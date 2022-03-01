@@ -1,0 +1,50 @@
+.footer {
+  padding: 120px 0;
+  background: #0b265a;
+}
+
+.footer__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__logo {
+  font-size: 32px;
+  color: white;
+}
+
+.footer__text {
+  width: 190px;
+  font-size: 16px;
+  margin-top: 13px;
+}
+
+.footer__social-media {
+  margin-top: 39px;
+  margin-right: 24px;
+}
+
+.footer__social-media-1 {
+  margin-top: 36px;
+  margin-right: 32px;
+}
+
+.footer__social-media-2 {
+  margin-top: 36px;
+}
+
+.footer__nav-item {
+  list-style: none;
+  color: #d9dbde;
+  margin-bottom: 24px;
+}
+
+.footer__nav-head {
+  font-weight: 700;
+  list-style: none;
+  color: white;
+}
+
+.left-site {
+  margin-right: 300px;
+}

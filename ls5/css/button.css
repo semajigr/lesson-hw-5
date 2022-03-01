@@ -1,0 +1,35 @@
+.button {
+  padding: 14px 16px;
+  background: #0e1734;
+  border-radius: 4px;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  border: none;
+}
+
+.button__right-icon {
+  margin-left: 12px;
+  vertical-align: middle;
+}
+
+.button--variant--ghost {
+  padding: 0;
+  color: #424f7b;
+  background: none;
+  border: none;
+}
+
+.button--variant--outline {
+}
+
+.button--variant--link {
+}
+
+.button:hover,
+.button:active,
+.button:focus {
+  opacity: 0.9;
+}
