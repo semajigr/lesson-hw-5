@@ -1,0 +1,29 @@
+.room {
+  display: flex;
+  padding: 80px 16px;
+}
+
+.room__your-journey {
+  width: 50%;
+  padding-top: 82px;
+}
+
+.room__start-description {
+  color: #424f7b;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.room__title {
+  margin-bottom: 24px;
+  font-size: 36px;
+}
+
+.room__description {
+  margin-bottom: 32px;
+  max-width: 384px;
+}
+
+.room__button {
+  margin-right: 24px;
+}
